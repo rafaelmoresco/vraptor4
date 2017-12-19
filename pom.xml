@@ -32,6 +32,15 @@
 			</roles>
 			<timezone>-3</timezone>
 		</developer>
+        <developer>
+			<id>Rafael</id>
+			<name>Rafael Moresco</name>
+			<email>rafaelmorescovieira@gmail.com</email>
+			<roles>
+				<role>developer</role>
+			</roles>
+			<timezone>-3</timezone>
+		</developer>
 		<developer>
 			<id>mariofts</id>
 			<name>Mario Amaral</name>
